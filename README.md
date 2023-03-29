@@ -7,6 +7,8 @@ DSCI D590 Applied Data Science
 Dr. Olga Scrivner
 October 1, 2022
 
+Updated on Mar-29-2023
+
 # Description
 The average retail stock trader or investor has little knowledge about investing and virtually no access to advanced stock data analysis tools. This project aims to provide a useful tool that can be used by retail investors to analyze stock market data and make informed investment decisions.
 
