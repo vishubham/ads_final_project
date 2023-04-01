@@ -15,5 +15,5 @@ The main objective of this project is to provide a stock market data analysis to
 
 st.write("""
 ### Developed By
-__Shubham Saurabh__  \nLuddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington  \nDSCI D590 Applied Data Science, Final Project, Fall 2022  \nDr. Olga Scrivner  \nDecember 8, 2022  \nLast updated on: April 1, 2023
+__Shubham Saurabh__  \nLuddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington  \nDSCI D590 Applied Data Science, Final Project, Fall 2022  \nDr. Olga Scrivner  \nDec 8, 2022  \nLast updated on: Apr 1, 2023
 """)
